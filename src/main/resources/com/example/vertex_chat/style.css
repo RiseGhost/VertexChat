@@ -1,0 +1,37 @@
+.scroll-pane {
+    -fx-background: #000;
+}
+
+#BottonBAR {
+    -fx-background-color: #000;
+}
+
+#ShowUser{
+    -fx-background: #000;
+}
+
+#TextFildMSG{
+    -fx-border-radius: 45px;
+    -fx-background-color: white;
+    -fx-background-radius: 45px;
+    -fx-background-color:   #586875;
+}
+
+.scroll-pane{
+    -fx-background: transparent;
+    -fx-background-color: transparent;
+}
+
+#MY-Text{
+    -fx-text-fill: white;
+}
+
+#MSG{
+    -fx-background-color: #4180ab;
+    -fx-padding: 5px;
+    -fx-background-radius: 8px;
+}
+
+#UserName{
+
+}
